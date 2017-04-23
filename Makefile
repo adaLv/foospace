@@ -26,6 +26,7 @@ build-pdf:
 	pdflatex --output-dir=$(BUILDDIR) satzung.tex
 	pdflatex --output-dir=$(BUILDDIR) geschaeftsordnung.tex
 	pdflatex --output-dir=$(BUILDDIR) selbstverstaendniss.tex
+	pdflatex --output-dir=$(BUILDDIR) doorlock/requirements_and_suggestions.tex
 
 collect-pdf: build-pdf
 	mkdir -p $(PDFDIR)

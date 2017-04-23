@@ -1,0 +1,59 @@
+\documentclass[10pt,a4paper]{scrartcl}
+\usepackage{eurosym}
+\usepackage[utf8x]{inputenc}
+\usepackage{ngerman}
+\usepackage[ngerman]{babel}
+\usepackage[margin=3cm]{geometry}
+\newcommand{\qt}[1]{\glq\emph{#1}\grq}
+\newcommand{\qs}[1]{\glqq#1\grqq}
+\newcommand{\name}{FOOSPACE}
+\newcommand{\revision}{$Revision: 1 $}
+\setlength{\parskip}{6pt}
+\setlength{\parindent}{0pt}
+\usepackage{enumerate}
+\usepackage{color}
+\pagestyle{plain}
+\usepackage{palatino}
+\usepackage[bookmarks,bookmarksopen=true,bookmarksnumbered=true,colorlinks,linkcolor=black,urlcolor=blue]{hyperref}
+\begin{document}
+{\LARGE Requirements and suggestions for a door locking system}
+phantomix 2017
+\subsection*{Requirements}
+\begin{enumerate}
+    \item physical: Foospace will, in perspective, have a door to the staircase of a building and one directly to the outside. A door locking system accessable from this second door must be resistant against water, sunlight and temperatures (e.g. -25...80 degrees celsius). This is a true subset of what would be allowed for a locking system for the inner door. To not divert between the two doors, the physical requirements for the outter door should be considered valid.
+A physical access token has to be small enough to being tied to a wristwrap, to fit onto a keyring or into a wallet.
+    \item infrastructural: Different approaches will need infrastructure to run. About every solution that goes beyond a metal key requires electrical power to open/close the door. Some solutions could require a permanent [wireless] LAN or internet connection. In these cases, a fallback solution should be available to certain persons.
+    \item functional, credentials: The locking mechanism must distinguish between persons who are allowed to open the door and persons who are who are being refused to access the rooms. Ideally, there should be always the possibility to leave the building, even when the system is in 'locked' state. This isn't a hard requirement, as the proposed rooms are in the ground floor, which means the windows are available as emergency exits too.
+The credentials can either be held through/within a physical device or being totally virtual, stored in the brain of the authorized. It must not be easy for that person to copy the credentials give others the ability to open the door. Furthermore, it is a requirement for the person not to be trackable by the infrastructure behind the locking system, e.g. for reasons of plausible deniability. Third, there has to be a way to revoke an authorization in case of lost credentials or an ended membership - that means, in doubt without the help or the agreement of the concerned person.
+\end{enumerate}
+\subsection*{Suggestions}
+\begin{table}[h!]
+  \centering
+  \caption{Suggestions}
+  \label{tab:table1}
+  \begin{tabular}{p{2cm}||p{1.8cm}|p{2.5cm}|p{7cm}}
+    \textbf{Solution} & \textbf{outdoor approved} & \textbf{extended infrastructure} & \textbf{known problems (to be solved)}\\
+    \hline
+    \hline
+	Metal keys (fallback) & yes & none & key-mgmt/revocation, (fallback)\\
+    \hline
+    keycode/pad & depends (keys) & elec. pwr & storage, revocation, copying, secure setup, sniffing\\
+    \hline
+    wlan+ssh & yes& elec. pwr., wlan, pc/server & mobile device required, sw (linux/android), !anonym or copying,  secure setup, implementation effort\\
+    \hline
+    usb/serial dongle & no (contacts) & elec. pwr, pc/server & !anonym and/or copying, weather proof contacts, impelmentation effort\\
+    \hline
+    rf transponder & yes & elec. pwr., arduino & !anonym and/or copying, sniffing\\
+    \hline
+    smartcard & depends (contacts) & elec. pwr. & availability (where to buy), outdoor reader device, implementation effort, !anonym\\
+    \hline
+    rfid/nfc-smartcard & yes (depends on reader) & elec. pwr., arduino & availability (where to buy), outdoor reader device, implementation effort, !anonym\\
+    \hline
+    optical transponder & depends (sunlight) & elec. pwr., arduino & implementation effort (outdoor reader device), !anonym, low data rate (auth speed)\\
+    \hline
+    wifi dongle (esp8266) or BLE (nrf52832) + CR2032 & yes & elec. pwr., wlan + raspi / nrf52832 & secure setup, implementation effort, reverse engineering\\
+    \hline
+    \hline
+  \end{tabular}
+\end{table}
+\end{document}

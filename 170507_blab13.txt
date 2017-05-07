@@ -1,0 +1,674 @@
+﻿Nützliche Links
+
+Latex converter
+https://www.overleaf.com/
+
+Meeting notes
+
+##########################
+
+2017-05-07
+
+New pad for the merged, combined Satzung:
+    https://pad.riseup.net/p/blab14
+    merged, combined geschäftsordnung:
+    https://pad.riseup.net/p/blab15
+
+No data/commits available from people not here (to work into the merge as well)
+
+17:30 is deadline today.
+
+as several people are not present, we'll send the merged version to everyone for a last checkup before we publish (~48h)
+
+##########################
+
+    2017-04-30
+
+Today we are only 5 people working through the Satzung in GitHub.
+Create a fork of the original, sublab e.V. documents here: https://github.com/elbenfreund/foospace
+
+Proposals from elbenfreund: https://github.com/elbenfreund/foospace/commit/087498c034e7442b983d0c417d209303d2083839
+Proposals from ente: https://github.com/elbenfreund/foospace/compare/master...entele:master
+Proposals from georg? https://github.com/elbenfreund/foospace/compare/master...RajHid:master Ja RajHid ist Georg
+Proposals from Lokke: https://github.com/elbenfreund/foospace/compare/master...Lokke:master
+Proposals from phantomix: https://github.com/elbenfreund/foospace/compare/master...phantomix-github:feature/zugangsregelung
+
+    ente would like a final draft of the Satzung by next Sunday;  publicise this for review then begin the e.V. immediately
+
+    he would likely quit working on this project if we fail to do that
+
+
+    -eric:  only few things in the satzung, as it's a lot of effort to change later.
+
+        the fundamental rules in the satzung, the variables and numbers go into the geschäftsordnung.
+
+
+    - eric: stille/förder mitgliedschaft: maybe automatically taking a members voting power is legally difficult
+
+    maybe make it opt-in, voluntarily, for members instead
+
+    who's voting powers do we want to take away, and why?
+
+    I heard something about:  inactive members;  new members;  non-voting sponsors?
+
+
+    - eric: small MVs, more regular, instead of plena. with lower treshold for beschlussfähigkeit (quorum), but higher treshold in votes for decisions.
+
+    Clear definition of what can and what can not be decided by the small, regular MV.
+
+    This would be members-only (for votes), corresponding to the "goal of a members-only space vs communityspace" (steven thinks we did not collectively decide that yet).
+
+
+    Decision 0: we decided that our working group will come to decisions via consensus, and where this is not possible we 
+
+    leave this undecided when we put the document for wider review
+
+    - we have agreed to this via consensus
+
+
+Actual agenda as defined last thursday:
+
+    1) decisionmaking process for the founding group to get things starting
+
+    three propositions:
+
+    - voting
+
+    - consensus decision
+
+    - consensus decision. as a joker card leave very few questions unresolved and present two alternatives when presenting the whole space concept to the public for feedback and "vote" <--this, by consensus :-)
+
+    - ente: please not more than two, max three "open questions" when presenting to the public
+
+
+    2) People we may can invite to the process of makeing the space: Name !X --> no; Name X --> jes; Name #X --> neutral OK; X First Letter of Name
+
+    - Danel Golle G
+
+    - Thomas Gütt G p
+
+    - Marvin G
+
+    - Nobody 
+
+    - Olf
+
+    - Equi
+
+    - Jasle !G
+
+
+    how to involve and when?:
+
+    - as peer review
+
+    - as full members in our Group
+
+
+    We found no consensus yet on involving these people *before* the public announcement.
+
+    (We have no drafts yet to show to them anyway).
+
+    therefore, no other people should be invited/involved/informed until next sunday and going public
+
+
+    3) Satzung und Geschäftsordnung
+
+
+    what to do next:
+
+    - check that people are on the mailinglist and mod-allowed and receiving mails
+
+    - eric will write a minimal howto to create individual drafts which can more easily be merged next sunday
+
+    - every one makes his own version of the Satzung and Geschäftsordnung prepared for next Sunday (2017-05-07)
+
+    - have birte and/or diego involved for moderation/organisation
+
+    - merge a draft version at sunnday 2017-05-07 with for example §5 a fooblaa b blafoo (Point a and b are different versions which were discussed but not solved,
+
+    - go public with that version
+
+    - ask special members how to solve §5 a and b (wasn't discussed yet)
+
+    - involve/invite daniel G to discuss structural eV stuff? _because_ he is more anarchistic and probably contrary to some of us
+
+      no, that wasn't agreed among everyone;  steven suggests we should contact him privately for his ideas, and keep options open, but right now don't let this disrupt the (probably very different) approach that this group is already moving in.
+
+    - wait X days/ week
+
+    - register the eV
+
+
+    Next meeting (Sunday 2017-05-07): aim to finish a group draft
+
+    - steven and lokke can't make it saturday nor sunday
+
+    - we'll try to involve their drafts as good as possible too
+
+
+    ################################################
+    
+    2017-04-27
+    
+https://dudle.inf.tu-dresden.de/Next_meeting/
+
+Meetings:  every Sunday 15:00
+
+Agenda next sunday (please prepare some ideas beforehand):
+
+    - decisionmaking process (consensus, vote)
+
+    - who shall be involved
+
+   - self-definition
+   
+People we may can invite to the process of makeing the space:
+
+    - Danel Golle G
+
+    - Thomas Gütt G p
+
+    - 
+
+
+Protocol:  take turns, someone checks time spent discussing the key points
+
+Roadmap:
+
+a) necessary
+
+    1. Satzung
+
+    - self-definition of the space and our goals
+
+    - way of decision making
+
+
+    membershipent
+
+    Wie ist ein typisches Mitglied mental (Attitüde) gestrickt? [translation needed]
+
+    Which kind of attitude we prefer from ourself and from new members?
+
+    Which are our own attitudes?
+
+    - idea of men
+
+    - legally needed to form eV
+
+    - Purpose of the space (what shuld the space make possible?)
+
+    1. finance, at least for starting period
+
+    - member fees
+
+    - should we spare a additional amount of money from ourselfes from now on to get a better start?
+
+
+    2. involving public
+
+
+    3. register eV
+
+
+    4. renting space
+
+    - list of stuff we have in Sublab
+
+
+b) desirable, not essential
+
+    -website
+
+    -publicityt
+
+    -physical infrastructure
+
+    - kitchen
+
+    - heating
+
+    - doorlocks
+
+    -networkinfrastructue/ internet
+
+
+    - safety
+
+    - doorlocks
+
+    - 
+
+
+    - putting together wish-list of things from sublab we would like to take with us
+
+    - moving stuff from sublab to foospace
+
+    - emptying sublab
+
+    - transportation of stuff (van ect.)
+    
+
+    -how can people be involved, later changes of the satzung etc
+
+    
+    
+    
+    ################################################
+    
+    2017-04-09
+    
+    DEU:
+    Türsystem erstmal verschieben[noch nicht nötig] -> (mehr als ein System? Wie organisieren?)
+    Welche Memberships wollen wir? Normal(32); Reduziert(16); Spezial? -> viele Probleme, haben wir das Geld überhaupt?
+    
+    ENG:
+
+    door access *implementation*:
+        A: one, official system with good documentation and responsible person(s)
+        B: plan for multiple systems, implemented by different people using different techniques
+
+        how to audit the system(s) (unauthorised persons getting access?)
+
+        idea to change/rotate the keys (physical ones, or things with rewritable memory)
+        (this prevents a key from being duplicated)
+
+    how important is security of this system vs. windows/door just being smashed
+
+
+        ideally be able to set lifetime of a key (e.g. for short-term trial membership;  or so it expires at end of pre-paid membership)
+
+    door access *policy*:
+        default-closed (except when an event is formally planned, see below)
+        members have permission to bring in guests (maybe X number?)
+
+    reduced-fee memberships:
+
+    some people might need the option of a reduced fee (eric made an argument against this?)
+
+    in sublab right now: 32 people pay the full fee, 16 reduced
+
+    it could be *controversial* if the Vorstand or some individual had sole power to precide over these cases
+
+    technically, any person can already decide to pay someone else's membership
+
+    steven suggests that if some members pay higher than the minimum amount, the surplus could go into a solidarity fund that (some entity) decides how to allocate to part-pay certain individuals' memberships
+
+
+    extra member (higher fee) - regular member - reduced fee member - support member
+
+    new members are the first x months support member, then become full-vote regular members?
+
+    what is the rationale here?
+
+    i think this is a bad idea, as judging from sublab experience people quite often become members to do something in the near future.
+
+    so this rule would stop highly motivated new members of the comunity to effectively do anything
+
+    alternative idea: buddy-system, new members get assigned an old member to "show them the ropes" and answer questions and stuff
+
+    I think eric was concerned that an influx of new members can change the workings/focus of the space from the original plans/expectations
+
+    (steven doesn't quite accept this as a problem to avoid, and thinks trying to prevent that could be very harmful)
+
+
+    pay three months in advance when becoming a member?
+
+
+    ensure enough cash surplus that, we don't find ourselves financially unable to discharge a member for misconduct
+
+    (then the decision is made on actual merit, not clouded by financial pressures)
+
+
+    members shall transfer their fees. membership closes after three months no fees paid.
+
+    steven suggests that, if pre-paying, the door entry system could enforce this (with a key expiry date - similar to trial memberships)
+
+    this is way too much work, like for real, this will not work in the long term (please clarify?)
+
+    eric says it's already too much work to check if members actually paid their membership, I think this helps somewhat
+
+
+    members: name is legally necessary, noone randomly excluded, 
+
+
+    exclusions/restrictions to become a members, would conflict with legal tax exemptions?
+
+
+    everyone is welcome to join, but needs to adhere to the rules
+
+    what rules do we want?
+
+    (to be determined)
+
+
+    no selling of beverages and no black-box-moneybox. If a member wants to provide beverages and a moneybox (or Automat), that's good.
+
+    that gives less incentive for a public event such as lounge (as there will be no stash of drinks to be sold at profit)
+
+
+    dedicated storage space for each member. limited, one box only. if a member wants to put a cooking pan and spices there, good. no space-provided kitchen.
+
+    I think the details of how much storage can be sorted later. The main point is, there is a clear framework.
+
+    it was contentious whether we could allow any of the (limited) space for storing food or extra cooking stuff.  but if members have some quota of generic storage space, they could use it how they wish
+
+
+   kitchen:
+
+    some members strongly want to heat food
+
+       but a full kitchen would monopolise the limited space and it carries an overhead to maintain
+
+    VoKü need not be a consideration when deciding a new building, if cooking is not the main focus (but they can always talk with Pizza Lab in the next room?)
+
+    or if the hackerspace expands to the 1st floor, then there is a full kitchen space, and it becomes more practical
+
+
+    other infrastructure:
+
+    A: self-host it all, delegate subdomains to any member who wants to set up a service
+
+    B: outsource as much as possible;  essential things to be well documented with an accountable person
+
+
+    membership requirements/criteria:
+
+    we cannot attach conditions, or pre-filter membership because of tax reasons at least
+
+
+    criteria for exclusion or terminating membership:
+
+    there *may* be arguments to terminate a membership (but this is an extreme measure when other resolutions failed)
+
+    shouldn't be based on interpretations of character but on their specific actions (vs. rules of the space?)
+
+    members may be excluded by vote of membership gathering. this needs a high treshold of members present and votes for the exclusion. more shall not be defined in the satzung etc but be found by consensus by the members in the situation itself.
+
+    Awareness/Moderations teams may still exist, but probably unable to decide by itself to exclude someone or teminate membership?
+
+
+    events
+
+    what groups, projects, events shall happen? Only hackerspace-mission related things.
+
+    would be nice to still have some diversity, space-permitting
+
+
+    informal meet-ups:
+
+    those don't need to be regulated at all (until someone complains it's intefering with their use of the space)
+
+    if it's "private and small", it's ok if it's reasonable in size and frequency, and doesn't interfere with (public, real) events or disturbs others.
+
+
+    define border between "private" and "large, public" events. The latter needs info to all members and some approval process.
+
+    large public events probably involve having the door open (vs. the default which is closed).
+
+
+    event planning procedures:
+
+    send a public mail for discussion, explaining:
+
+    - what it is, when it will be
+
+    - explain the relevance (w.r.t. technical focus)
+
+    - who's the responsible person (who might still delegate the organisation or cleanup work to other people)
+
+    then after some discussion, some entity needs to decide whether to approve it
+
+
+    ################################################
+    ^^^ TODAY
+
+    VVV LAST WEEK
+
+Please mark agreement with your letter ("e" for ente) or !e for disagreement/clarification/discussion needed
+
+Any different ideas how to organize ideas and a dozen people with +1 and -1? Different tools?
+
+
+We will need to publicly announce our idea soon,
+but first must be really clear and agreed on our plans
+please keep this _private_ until we feel ready to annonuce it.
+
+But please also help to write this! (below)
+
+== what makes our idea different from what other groups might be planning?
+
+
+    open; that means:
+
+    - not trying to exclude specific people egpaj
+
+    - not restricting membership requirements/skills? egpaj
+
+    - BPL has in their statutes that "Menschenfeindlichkeit" is a possible reason for exclusion egpaj
+
+
+    we want a new space to be already open, when the existing sublab is closed
+
+    - or better ~1 month earlier, while we are still emptying the old sublab pjl
+
+
+    I think we want to keep the Techniksprechstunde egpaj? the Vokü ga (depends on Infrastructure) ?ep(!j -> do we want a hackerspace or openculture-space?)?  other public events egpaj?
+
+
+    our door policy?
+
+    - someone thought the current sublab is "too" open, so it gives not enough incentive to become a paying member egpaj?
+
+    - but we still want some pre-planned, public events epaj
+
+    - noah suggested individual keycards for every membera !g (People will be trackable, and or we can not deney this plausible), and intercom for door entry g We can have the logging host encrypt the logs. So that for example everyone in the vorstand has to add their individual keys to decrypt the log. So this is only done in case of abuse etc. This is easily possible with storing the vorstands public keys on the server, their private keys would be needed for decryption. I don't like easily copyable, anonymous keys to enter the space. Might not be allowed by the landlord anyway. Ente !g plausible deniebilety will not be plauseble, needs maintanance and work to do. wee didnt need that in sublab over the jears. for imprtant infrastructure like Server room or money, there can be/should be a personal key thing. p Can someone, without much effort, interface a Desfire EV2 / smart card?
+
+    - steven suggests any member can *voluntarily* let people into the space, or choose to be left alone if they prefer eg (worked for me during some nigthshifts) pj
+
+    - default: members only. Even if it's a reduced fee membership. Including asking to become a member after X time. eg (there should be a time like ~ 6 weeks, where the new member is in a "disqualifing periode" where he can disqualify himself from membership (for the next ~10 month) do to misdoings against the purpose of the space, after that he bocomes automaticaly a member, over the disqualifing periode he should be often in the Space and take Part.<--Access policy is a triky here. May be we use a set of different pins for new members and members, or we use pins for members and key card for new ones)!a (6 weeks would probably not be enough to filter out the evil. but: it could make people uncomfortable who do deserve trust. disqualification should be possible at any time, if necessary. but a trial vetsion of membership may make it easier to make up one's mind.
+
+
+== what else would be special about our space?
+
+
+    the space we are currently looking at:
+
+    - is directly on the Strassenbahn line 7 (Böhlitz-Ehrenberg, Leutzsch, Hbf/Zentrum, Reudnitz, Paunsdorf, Sommerfeld)
+
+    - non-smoking gpal, but is on ground floor with easy access to courtyard / innenhof g (this is not up for depate but status there)
+
+    - pizza lab is in the same building
+
+    - more space upstairs where we could expand, use for coworking, private hacking/workshop rooms
+
+
+    what's our financial plan
+
+    - at least 400 EUR/mo. kaltmiete - less than sublab was paying last year
+
+    - maybe 300 EUR/year heating, 100 Eur/month electricity, 40 Eur/month internet, water?
+
+    --> 565 Eur per month, maybe less.
+
+    - prefer to keep membership fees low, but some might voluntarily pay more
+
+    - more flexible fees? a in addition to full memberships i would appreciate smaller packages, like booking certain groups only and only having guest priviledges30 Eur full / 15 Eur reduced / X Euro on request in special circumstances? g (there should be three stages of memberschip, full ~30€, reduced 15 ~ 29€, and advanced more than 30€ because one has a job also money but no time to waste: ist a money transfer between the members wo have money and others who have time. <--This needs a symple system to write down wo did whitch thing.) p What about 16/32/64? Don't get the "write down" idea yet... nice round numbers, yes! ej
+
+
+
+Work we will need to do
+
+    make an eV.
+
+    - y did this before
+
+    this is a lie
+
+a i have involved equi (for good reasons). he also has this experience.
+
+
+
+    Buchhaltung?
+
+    Schatzmeister
+
+    - maybe ente is capable!
+
+
+    request to rent space
+
+    - ente generally is in contact
+
+
+    paint walls etc.
+
+    - ente
+
+    - Georg
+
+    - lokke
+
+    - phantomix
+
+    bring things from sublab
+
+    - negotiate what we are allowed to take, e.g. disco ball
+
+    - people to help?
+
+    - transport? g (whith a heavy transport bike i can go the distance qite often, Planing and renting a Van/ Transporter/ People is the key)a i love driving transporters p (will try to get a teilauto account) else I'll rent regular transporters e 
+
+    electrical work
+
+    - maybe steven can help with some of this
+
+    - g did some kind of that, like installing plug sockets.
+
+    - christian koch is the pro, and should have the final look on this
+
+    - let's make as much of the electricity and light fixtures "smart", with meters, switchable and a big red button at the door p (later in phase II, let's first move into the rooms.) +1 e
+
+
+    network cabling/planning
+
+    - steven also
+
+
+    WLAN
+
+    - would need at least one DSL line g p, probably two? !g (the internet should work to get 5 to 15 people conected to browse normal webpages like heise but not 15 paralel Youtube videos in HD) !e !p (second line / upgrade maybe later) +1 e
+
+    - we might get consent to put radio antennae on the roof, if we wanted
+
+
+    lighting
+
+    - alice could bring light bulbs if that helps. ente too. :D i dont have any... but i can help planning the lighting after most rooms have been assigned their functions 
+
+
+    make the door entry system
+
+    - door entry system via RFID tokens?
+    - Show token at pizzalab for rebate? Need to discuss this with them.
+    - More tokens everywhere! The houseproject will surely want some on the other doors as well.
+    - j can code it
+
+    website
+
+    - steven might help, has servers already
+
+    - phantomix also has a server, would not run email services though (email is mission critical some times - can't guarantee the long term reliability) but wants to learn more recent HTML, CSS, JS[ON] (Elbenfreund is able to use Django)
+
+    -> Jan is a Student, he often get into Programs which makes him able to get some stuff cheaper (look into github education pack)
+
+    - no "discuss" nor "members" mailinglist at all, but discourse, for example?
+
+    - mailinglists: announce, members-redphone (time critical emergencies)
+
+
+    heating:  will have a few months to worry about this
+
+    - the building has coal furnaces requiring some operator skill / foresight
+
+
+    bringing visitors into the new space, public events
+
+    - katha
+
+    - alice
+
+
+
+    grant proposals for government funding etc?
+
+    - katha (maybe alice?)!a i can get funding for particular projects i participate in. for proper techart which i find _really_ makes sense in a hack/make space, for fun techie workshops or talks or for volunteer work in general. ente is confused.
+
+
+    communicate
+
+    - ente will talk with the location once we are at that status
+
+    - with potential new members
+
+    - with "the other group", to see if we can collaborate
+
+    - with cafe kaputt, about Techniksprechstunde a maaaybe the woman n charge also has some tips on awarness structures
+
+    - with pizza lab, about special arrangements for food/drinks (may be easier than managing those ourselves), possible kitchen space for VoKü?
+
+
+    possible groups:
+
+    - Techniksprechstunde --> talk with cafe kaputt, maybe only "clean" repairs without a Werkstatt?
+
+    - Hardwarebastelrunde: confirmed (Elektronikrunde people too?) a p can supply some raw equipment
+
+    - Security group a
+
+    - Freifunk (They'll surely like some hardware on the roof) a
+
+    - Bündnis Privatsphäre: enough space? Need a projector a
+
+    - Vokü: Collaboration with Pizzalab? a
+
+    - ask "Free Code Camp" if they want to start again?
+
+    - Code Girls?
+
+    - Subcode / Programmier-Gruppe
+
+    - (Biohacking if there will be some money)
+
+
+Done
+    
+
+    We wanted to send a public mail asking:
+
+    does anyone have other plans?
+
+    where?
+
+    when will it begin (immediately when sublab closes, or?)
+
+    how can people get involved with their project?
+
+
+Jan sent that to the public mailing list 27.03.2017 -> NO ANSWER
+
+____________________________________________
+
+maschinenraum
+serverraum
+dev/null
+rechenwerk
+rechnerei
+rechenkern
+prozessorkern
+foobar
+schaltzentrale
+datensenke
+
+

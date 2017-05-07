@@ -1,3 +1,10 @@
+﻿% [1]
+%----todo:
+% technische lösung um mitglieder kurzfristig zu Input zu zwingen, vor der nächsten mitgliederversammlung
+
+
+
+
 \documentclass[10pt,a4paper]{article}
 \usepackage{ucs}
 \usepackage{eurosym}
@@ -21,38 +28,72 @@
 {\LARGE Geschäftsordnung des \name\ e.V.}
 
 Fassung vom \today (\revision)
-
-\subsection*{§ 1 Mitgliedsbeträge}
+%
+% Paragraph 1 ====================================================
+%
+\subsection*{§ 1 Mitgliedsbeträge und Mitgliedsarten}
 % 5.3
 \begin{enumerate}
 \item Der Verein erhebt gemäß §5 seiner Satzung Mitgliedsbeiträge wie folgt:
-	\begin{itemize}
-	\item 16,00€/Monat für ermäßigte Mitgliedschaft
-	\item 32,00€/Monat für normale Mitgliedschaft
-	\item 42,00€/Monat, 64,00€/Monat, 128,00€/Monat oder 256,00€/Monat für Nerdmitglieder
-	\end{itemize}
-\item Voraussetzung für die ermäßigte Mitgliedschaft ist die Vorlage eines
-	Schüler-, Studenten- oder Rentenausweises, einer Hartz-IV-Bescheinigung,
-	eines Sozialhilfebescheids, eines Bescheids des Arbeitsamt
-	oder eines vergleichbaren Nachweises gegenüber dem Vorstand.
-	Der entsprechende Nachweis ist jährlich neu zu erbringen.
-\item Die Nerdmitgliedschaft steht jedem Mitglied zur Wahl, das den Verein stärker
-	finanziell unterstützen möchte. Mit einer solchen
-	Nerdmitgliedschaft sind keinerlei Privilegien oder Stimmvorteile gegenüber
-	den anderen beiden Mitgliedschaften verbunden.
-\item Änderungen bezüglich der Mitgliedschaft (Mitgliedbeitrag oder Mitgliedsart)
-	sind dem Vorstand schriftlich mitzuteilen. Sofern nicht anders
-	vereinbart gelten die gleichen Fristen wie in dieser Ordnung unter §2
-	zum Austritt angegeben.
-\end{enumerate}
+    \begin{itemize}
+    \item 16,00€/Monat für ermäßigte Mitgliedschaft
+    \item 32,00€/Monat für normale Mitgliedschaft
+    \item 42,00€/Monat, 64,00€/Monat, 128,00€/Monat oder 256,00€/Monat für Nerdmitglieder
+    \end{itemize}
+    
 
-\subsection*{§ 2 Verpflichtungen nach Austritt}
+    \item Mitglieder sind verpflichtet, den Mitgliedsbeitrag bis zum dritten Werktag des Monats
+
+    auf das Konto des Vereines zu überweisen. Die Mitgliedschaft endet bei einem Rückstand
+
+    von zwei Monatsbeiträgen automatisch. Ausnahmen können vom Vorstand beschlossen werden.
+
+    Bei automatischer Beendigung der Mitgliedschaft wird das Mitglied schriftlich über den
+
+    Vorgang informiert.
+
+    \item Vorrausetzung für die ermäßigte Mitgliedschaft erfüllen alle Personen, welche Schüler, Studenten,
+
+    Rentner, Geflüchtete, oder Empfänger von staatlicher Hilfe sind, und dies jährlich nachweisen.
+
+\item Die Nerdmitgliedschaft steht jedem Mitglied zur Wahl, das den Verein stärker
+    finanziell unterstützen möchte. Mit einer solchen
+    Nerdmitgliedschaft sind keinerlei Privilegien oder Stimmvorteile gegenüber
+    den anderen beiden Mitgliedschaften verbunden.
+    
+    \item Ein Mitgliedschaftsanwärter hat die Pflicht, sich einem Vorstandsmitglied oder zur 
+    Mitgliederversammlung persönlich vorzustellen, um die Mitgliedschaft wirksam zu machen.
+    
+
+    \item Unabhängig vom Mitgliedsbeitrag wird zwischen regulären Mitgliedern und Fördermitgliedern
+
+    unterschieden. Bei Eintritt in den Verein ist jedes Mitglied ein reguläres Mitglied.
+
+    Nimmt ein reguläres Mitglied an zwei aufeinanderfolgenden Mitgliederversammlungen nicht
+
+    teil, wird es automatisch zum Fördermitglied. Bei Teilnahme an einer Mitgliederversammlung
+
+    kann das Mitglied auf eigenen Wunsch wieder zur regulären Mitgliedschaft wechseln.
+
+    Fördermitglieder haben kein Stimmrecht in der Mitgliederversammlung.
+
+    
+\item Änderungen bezüglich der Mitgliedschaft (Mitgliedbeitrag, Mitgliedsart oder Beendigung der Mitgliedschaft)
+    sind dem Vorstand schriftlich mitzuteilen. Sofern nicht anders
+    vereinbart gelten die gleichen Fristen wie in dieser Ordnung unter §2
+    zum Austritt angegeben.
+\end{enumerate}
+%
+% Paragraph 2 ====================================================
+%
+\subsection*{§ 2 Verpflichtungen nach Ende der Mitgliedschaft}
 % 3.5
 \begin{enumerate}
-\item Das Ende der Mitgliedschaft eines Mitglied entbindet dieses nicht von der
-	Beitragsverpflichtung bis zum nächsten Quartalsende.
+\item Nach Beendigung der Mitgliedschaft besteht eine Zahlungspflicht für den Folgemonat.
 \end{enumerate}
-
+%
+% Paragraph 3 ====================================================
+%
 \subsection*{§ 3 Einschränkungen der Verfügungsberechtigung des Vorstands}
 % 8.2
 \begin{enumerate}
@@ -62,130 +103,124 @@ Fassung vom \today (\revision)
     Vorstand abstimmen. Bei höheren Beträgen ist ein Beschluss durch die
     Mitgliederversammlung nötig.
 \end{enumerate}
-
+%
+% Paragraph 4 ====================================================
+%
 \subsection*{§ 4 Beschlussfähigkeit der Mitgliederversammlung}
 % 7.4.
 \begin{enumerate}
 \item Die Untergrenze für die Beschlussfähigkeit der Mitgliederversammlung
-	gemäß Satzung §7 beträgt 23\% der Mitglieder.
-\end{enumerate}
+    gemäß Satzung §7 beträgt 51\% der Mitglieder.
+\item Die teilnehmenden regulären Mitglieder sind im Versammlungsprotokoll zu protokollieren.
+\item Gäste sind zur Mitgliederversammlung zugelassen.
 
+\end{enumerate}
+%
+% Paragraph 5 ====================================================
+%
 \subsection*{§ 5 Grundsätze der Vermögensverwaltung des Vereins}
 \begin{enumerate}
-\item Die Summe der Ausgaben eines Jahres darf das liquide Vereinsvermögen
-	nicht übersteigen.
-\end{enumerate}
-
+\item Der Vorstand hat Sorge zu tragen, dass das Gesamtvermögen des Vereins nicht negativ wird.
+%
+% Paragraph 6 ====================================================
+%
 \subsection*{§ 6 Aufgaben des Schatzmeisters}
 \begin{enumerate}
 \item Der Schatzmeister hat auf eine sparsame und wirtschaftliche
-	Haushaltsführung hinzuwirken
+    Haushaltsführung hinzuwirken
 \item Der Schatzmeister legt nach Eintragung des Vereines in das Vereinsregister
-	ein Konto auf den Namen des Vereines an und verwaltet dort das
-	Vereinsvermögen.
-\item Für Abhebungen vom Vereinskonto ist die Unterschrift von zwei
-	Vorstandsmitgliedern nötig.
-	% [FIXME] Obsolete durch Geldautomaten?
+    ein Konto auf den Namen des Vereines an und verwaltet dort das
+    Vereinsvermögen.
 \item Der Schatzmeister informiert die Vereinsmitglieder mindestens
-	vierteljährlich sowie innerhalb von sechs Wochen nach größeren
-	Veranstaltungen, bei denen der Verein als Veranstalter oder
-	Mitveranstalter auftritt, über den Kassenstand. Einnahmen und
-	Ausgaben über 100 EUR sind dabei einzeln aufzulisten.
+    jährlich sowie innerhalb von acht Wochen nach größeren
+    Veranstaltungen, bei denen der Verein als Veranstalter oder
+    Mitveranstalter auftritt, über den Kassenstand. Einnahmen und
+    Ausgaben über 100 EUR sind dabei einzeln aufzulisten.
 \item Als Vorstandsmitglied hat der Schatzmeister die Einbringung der
-	Mitgliedsbeiträge und anderer Einnahmen zu organisieren. Dabei
-	genießt er die volle Unterstützung des Vorstands.
-\item Für laufende Einnahmen und Ausgaben führt der Schatzmeister eine
-	Bargeldkasse. Über\-schüs\-sige Bargeldsummen werden von ihm
-	regelmäßig auf dem Vereinskonto abgelegt.
+    Mitgliedsbeiträge und anderer Einnahmen zu organisieren. Dabei
+    genießt er die volle Unterstützung des Vorstands.
+\item Für laufende Einnahmen und Ausgaben kann der Schatzmeister eine
+    Bargeldkasse führen. Über\-schüs\-sige Bargeldsummen werden von ihm
+    regelmäßig auf dem Vereinskonto abgelegt.
 \item Für Bareingänge stellt der Schatzmeister eine formgerechte Quittung
-	in doppelter Ausfertigung aus, davon eine für den Einzahler.
+    in doppelter Ausfertigung aus, davon eine für den Einzahler.
 \item Der Schatzmeister legt ein geeignetes Vermögensregister an, das
-	nach den Regeln der einfachen Buchführung zu führen ist und aus
-	folgenden Teilen besteht:
-	\begin{itemize}
-	\item Kassenbuch für die Bargeldkasse
-	\item Hauptbuch für das Vereinskonto
-	\item Inventarliste für Vermögensgegenstände 
-	\end{itemize}
+    nach den Regeln der einfachen Buchführung zu führen ist und aus
+    folgenden Teilen besteht:
+    \begin{itemize}
+    \item Kassenbuch für die Bargeldkasse
+    \item Hauptbuch für das Vereinskonto
+    \item Inventarliste für Vermögensgegenstände 
+    \end{itemize}
 \item Jede einzelne Ausgabe muss belegt werden. Jeder Beleg muss von
-	dem Vereinsmitglied, das die Ausgabe getätigt hat, umgehend
-	beim Schatzmeister eingereicht werden.
+    dem Vereinsmitglied, das die Ausgabe getätigt hat, umgehend
+    beim Schatzmeister eingereicht werden.
 \item Sollten Güter zugunsten des Vereins eingehen, sind diese im
-	Vermögensregister einzutragen. Der Schatzmeister hat nach
-	Genehmigung durch den Vorstand ein Aufbewahrungsprotokoll
-	anzufertigen, ein Exemplar für den Besorger, eins zur
-	Dokumentation beim Schatzmeister.
+    Vermögensregister einzutragen. Der Schatzmeister hat nach
+    Genehmigung durch den Vorstand ein Aufbewahrungsprotokoll
+    anzufertigen, ein Exemplar für den Besorger, eins zur
+    Dokumentation beim Schatzmeister.
 \item Der Schatzmeister führt die Liste der Vereinsmitglieder.
-	Periodisch werden von ihm die sich ergebenden Veränderungen
-	durch Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt.
-\item Für den Jahresabschluss oder bei Wechsel des Schatzmeisters ist
-	durch ihn eine Bilanz zu erstellen. 
-	% [FIXME] Sollte gestrichen werden.
-	% Aus Steuergründen: *wenn* bilanziert wird, dann gibt man dadurch faktisch
-	% den Anspruch auf 'einfache Buchführung' auf.
-	% 'Bilanz' hat hier eine klar definierte Bedeutung. Wenn es nur um eine 'Übersicht' geht
-	% reicht wahrscheinlich auch 'EÜR'.
+    Periodisch werden von ihm die sich ergebenden Veränderungen
+    durch Zugänge und Abgänge den Vereinsmitgliedern mitgeteilt.
+\item Bei Wechsel des Schatzmeisters ist durch ihn eine Übersicht zu erstellen.
 \end{enumerate}
-
+%
+% Paragraph 7 ====================================================
+%
 \subsection*{§ 7 Erstattung der Auslagen des Vorstands}
 % 8.8
 \begin{enumerate}
 \item Auslagen des Vorstandes zur Verfolgung der Vereinszwecke werden
-	in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung
-	muss der Vorstand in einer Stellungnahme Zweck- und Verhältnis\-mäßigkeit
-	der Ausgaben nachweisen.
+    in voller Höhe erstattet. Auf Beschluss der Mitgliederversammlung
+    muss der Vorstand in einer Stellungnahme Zweck- und Verhältnis\-mäßigkeit
+    der Ausgaben nachweisen.
 \end{enumerate}
-
+%
+% Paragraph 8 ====================================================
+%
 \subsection*{§ 8 Elektronische Schriftform}
 % 11
 \begin{enumerate}
 \item Elektronische Dokumente im Sinne von §11 der Satzung sind mit PGP/GPG
-	oder mit S/MIME signierte E-Mails. Jedes Mitglied kann beim Vorstand
-	einen öffentlichen Schlüssel bzw. sein Zertifikat hinterlegen, dessen
-	Signatur die jeweiligen E-Mails tragen müssen. Das Mitglied hat bei
-	Kompromittierung des Schlüssels für Benachrichtigung des Vorstands
-	zu sorgen.
+    oder mit S/MIME signierte E-Mails. Jedes Mitglied kann beim Vorstand
+    einen öffentlichen Schlüssel bzw. sein Zertifikat hinterlegen, dessen
+    Signatur die jeweiligen E-Mails tragen müssen. Das Mitglied hat bei
+    Kompromittierung des Schlüssels für Benachrichtigung des Vorstands
+    zu sorgen.
 \item Im Abstimmungsprozess einer Mitgliederversammlung
-	übernimmt und protokolliert der Schriftführer die Überprüfung und
-	Zählung der signierten E-Mails. Ferner prüft er die Anwesenheit und
-	erklärt eventuell vorliegende schriftlich abgegebene Stimmen anwesender
-	Mitglieder öffentlich für ungültig.
+    übernimmt und protokolliert der Schriftführer die Überprüfung und
+    Zählung der signierten E-Mails. Ferner prüft er die physische oder fernmündliche Anwesenheit und
+    erklärt eventuell vorliegende schriftlich abgegebene Stimmen anwesender
+    Mitglieder öffentlich für ungültig.
 \end{enumerate}
 
-\subsection*{§ 9 Umgang mit Gefahrenquellen}
+%
+% Paragraph 9 ====================================================
+%
+
+\subsection*{§ 9 Zutritt zu den Vereinsräumen, öffentliche Veranstaltungen}
+% 8.8
+\begin{enumerate}
+\item Mitglieder haben, vorbehaltlich eines Hausverbotes, jederzeit Zugang zu
+den Vereinsräumen. Als Grundzustand ist der Zugang zu den Vereinsräumen
+Mitgliedern vorbehalten. Mitglieder können Nichtmitgliedern den Zugang
+gewähren und haften dann gegenüber dem Verein für alle daraus resultierenden Schäden.
+Öffentliche Veranstaltungen haben abweichend dazu eine "offene Türe",
+Nichtmitglieder sind eingeladen an der Veranstaltung teilzunehmen.
+\item Nichtmitglieder dürfen sich nur bei Anwesenheit eines Mitglieds in den
+Vereinsräumen aufhalten.
+\item Geplante oder angedachte öffentliche Veranstaltungen sind den Mitgliedern und je nach Situation der Öffentlichkeit rechtzeitig angemessen vorzustellen. Ein Mitglied ist für Vorbereitung, Ablauf und Nachbereitung der Veranstaltung verantwortlich. Als Grundzustand ist dies das einladende Mitglied, ein anderes Mitglied kann benannt werden. Dieses Mitglied erhält für die Dauer dieser Veranstaltung das Hausrecht. Es kann das Hausrecht weiter delegieren.
+\item Eine Weitergabe von Schlüsseln oder Vergleichbarem zu den Vereinsräumen an Nichtmitglieder ist untersagt und kann mit sofortigem Vereinsausschluss sanktioniert werden. \end{enumerate}
+
+%
+% Paragraph 10 ====================================================
+%
+\subsection*{§ 10 Umgang mit Gefahrenquellen}
 \begin{enumerate}
 \item Alle Mitglieder sind angehalten, auftretende Gefahrenquellen zu
-	beheben und dem Vorstand zu melden sowie darauf zu achten, keine
-	neuen Gefahrenquellen zu erzeugen.
-\end{enumerate}
-
-\subsection*{§ 10 Zugang zu den Vereinsräumen}
-\begin{enumerate}
-	\item Jedem Vereinsmitglied steht prinzipiell der Zugang zu den
-		Vereinsräumen offen.  Jedes Mitglied kann auf seine
-		% [FIXME] Anzahl limitieren? Carte blanche?
-		Verantwortung X Nichtmitglieder in die Vereinsräume mitbringen.
-		In diesem Fall haftet das einladende Mitglied in vollen Umfang
-		für seine Gäste und ist für die Befolgung von Satzung,
-		Geschäftsordnung und 'code of conduct' verantwortlich.
-	\item Beim Verlassen der Vereinsräume hat jedes Mitglied dafür zu
-		sorgen das sich die Räume in einem ordentlichen und auch einem
-		externen Publikum vorzeigbaren Zustand befinden. Sollte das
-		letzte Mitglied die Räumlichkeiten verlassen und der Meinung
-		sein das es den inakzeptablen Zustand nicht zu verantworten hat
-		und auch nicht bereit sein ihn zu beheben so ist dies explizit
-		gegenüber dem Vorstand anzuzeigen. Es ist ausdrücklich darauf
-		hingewiesen das das dreckige Hinterlassen der Vereinsräume als
-		einer geteilten Ressource die für alle angenehm nutzbar sein
-		soll explizit als vereinschädigendes Verhalten verstanden
-		werden kann und wird.
-	\item Nichtmitglieder erhalten keinen eigenständigen Zugang.
-		Insbesondere für Veranstaltungen nach §XX %[FIXME]
-		können durch den Vorstand oder per Beschluss der MV zeitlich
-		begrenzte Sonderregelungen getroffen werden.
-	\item Die Mitglieder sind dafür verantwortlich die Zuangsregelung
-		einzuhalten und durchzusetzen, dazu gehört auch evtl.
-		notwendige Schlüssel, Passwörter o.ä. vertraulich zu behandeln.
+    beheben oder zu sichern und dem Vorstand zu melden, sowie darauf zu achten, keine
+    neuen Gefahrenquellen zu erzeugen.
 \end{enumerate}
 
 \end{document}
